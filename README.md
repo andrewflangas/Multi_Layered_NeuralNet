@@ -6,4 +6,4 @@ its performance.
 
 The required dependencies are TensorFlow and Keras:
 
-pip install tensorflow keras
+`pip install tensorflow keras`
